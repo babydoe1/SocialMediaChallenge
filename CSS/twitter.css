@@ -1,0 +1,111 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    position: absolute;
+    top: 150px;
+    right: 200px;
+}
+h3 {
+    position: absolute;
+    top: 300px;
+    right: 400px;
+}
+#logo{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 100px;
+    right: 500px;
+}
+#login{
+    box-sizing: border-box;
+    border: 1px rgb(27,149,224) solid;
+    background-color: #ffffff;
+    color: rgb(27,149,224);
+    width: 60px;
+    height: 40px;
+    border-radius: 50px;
+    font-weight: 700;
+    position: absolute;
+    top: 120px;
+    right: 200px;
+}
+#biglogin {
+    box-sizing: border-box;
+    border: 1px rgb(27,149,224) solid;
+    background-color: #ffffff;
+    color: rgb(27,149,224);
+    width: 320px;
+    height: 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    position: absolute;
+    top: 400px;
+    right: 240px;
+}
+#signup {
+    box-sizing: border-box;
+    border: 1px rgb(27,149,224) solid;
+    background-color: rgb(27,149,224);
+    color: white;
+    width: 320px;
+    height: 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    position: absolute;
+    top: 360px;
+    right: 240px;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+}
+li{
+    color: rgb(217, 226, 235);
+    display: inline;
+    padding: 10px 7px;
+    position: relative;
+    font-size: small;
+    
+}
+li a:link{
+    text-decoration: none;
+    color: rgb(217, 226, 235);
+
+}
+aside {
+    box-sizing: border-box;
+    background-color: rgb(29,161,242);
+    /* background-image: url(../IMAGES/Twitter_.svg) */
+    width: 620px;
+    height: 535px;
+}
+h2 {
+    color: #ffffff;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+h4 {
+    color: #ffffff;
+    position: absolute;
+    top: 180px;
+    left: 100px;
+}
+#updates {
+    color: #ffffff;
+    position: relative;
+    line-height: 4px;
+    top: 280px;
+    left: 93px;
+}
+h5 {
+    font-size: 15px;
+}
+h6 {
+    font-weight: 400;
+    font-size: 12px;
+
+}
+
